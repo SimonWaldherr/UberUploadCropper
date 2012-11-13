@@ -5,14 +5,14 @@
 		<title>Uber Upload Cropper -v2</title>
 		
 		<link href="../css/default.css" rel="stylesheet" type="text/css" />
-		<link href="../scripts/fileuploader/fileuploader.css" rel="stylesheet" type="text/css" />
-		<link href="../scripts/Jcrop/jquery.Jcrop.css" rel="stylesheet" type="text/css" />
+		<link href="../scripts/fileuploader/fileuploader.min.css" rel="stylesheet" type="text/css" />
+		<link href="../scripts/Jcrop/jquery.Jcrop.min.css" rel="stylesheet" type="text/css" />
 		
-		<script type="text/javascript" src="../scripts/jquery-1.7.1.min.js"></script>
-		<script type="text/javascript" src="../scripts/jquery-impromptu.js"></script>
-		<script type="text/javascript" src="../scripts/fileuploader/fileuploader.js"></script>
+		<script type="text/javascript" src="../scripts/jquery.min.js"></script>
+		<script type="text/javascript" src="../scripts/jquery-impromptu.min.js"></script>
+		<script type="text/javascript" src="../scripts/fileuploader/fileuploader.min.js"></script>
 		<script type="text/javascript" src="../scripts/Jcrop/jquery.Jcrop.min.js"></script>
-		<script type="text/javascript" src="../scripts/jquery-uberuploadcropper.js"></script>
+		<script type="text/javascript" src="../scripts/jquery-uberuploadcropper.min.js"></script>
 		
 		<script type="text/javascript">
 			$(function() {

@@ -43,7 +43,7 @@
 					'cropAction': 'crop.php',		// server side request to crop image
 					'onComplete': function(imgs,data){ 
 						var $PhotoPrevs = $('#PhotoPrevs');
-
+						
 						for(var i=0,l=imgs.length; i<l; i++){
 							$PhotoPrevs.append('<img src="uploads/'+ imgs[i].filename +'?d='+ (new Date()).getTime() +'" />');
 						}
