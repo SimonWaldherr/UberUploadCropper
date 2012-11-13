@@ -1,7 +1,7 @@
 jQuery UberUploadCropper
 ========================
 
-By: Trent Richardson [http://trentrichardson.com]
+By: [Trent Richardson](http://trentrichardson.com)
 
 Version 0.2
 
@@ -15,9 +15,22 @@ http://trentrichardson.com/Impromptu/GPL-LICENSE.txt
 
 http://trentrichardson.com/Impromptu/MIT-LICENSE.txt
 
+---
+
+Fork By: [Simon Waldherr](http://simon.waldherr.eu/)
+
+Version 0.2.1
+
+Last Modified: 13/11/2012
+
+Copyright 2012 Trent Richardson, Simon Waldherr
+
+Dual licensed under the MIT and GPL licenses.
+
 Libraries Used
 --------------
-- [jQuery Impromptu](http://trentrichardson.com/Impromptu/) for modal resizing window
+- [jQuery](https://github.com/jquery/jquery)
+- [jQuery Impromptu](https://github.com/trentrichardson/jQuery-Impromptu) for modal resizing window
 - [Jcrop](https://github.com/tapmodo/Jcrop) to crop the images
 - [File Uploader](http://github.com/valums/file-uploader) to upload images
 

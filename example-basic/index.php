@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8" />
-		<title>Uber Upload Cropper -v2</title>
+		<title>Uber Upload Cropper -v0.2.1</title>
 		
 		<link href="../css/default.css" rel="stylesheet" type="text/css" />
 		<link href="../scripts/fileuploader/fileuploader.min.css" rel="stylesheet" type="text/css" />
@@ -56,7 +56,7 @@
 
 	<body>
 		<div id="wrapper">
-			<h1>UberUploadCropper</h1>
+			<h1>UberUploadCropper v0.2.1</h1>
 			<p>Basic Example which demonstrates the very basic upload and crop.</p>
 			<div id="UploadImages">
 				<noscript>Please enable javascript to upload and crop images.</noscript>

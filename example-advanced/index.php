@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8" />
-		<title>Uber Upload Cropper -v2</title>
+		<title>Uber Upload Cropper -v0.2.1</title>
 		
 		<link href="../css/default.css" rel="stylesheet" type="text/css" />
 		<link href="../scripts/fileuploader/fileuploader.min.css" rel="stylesheet" type="text/css" />
@@ -56,7 +56,7 @@
 
 	<body>
 		<div id="wrapper">
-			<h1>UberUploadCropper</h1>
+			<h1>UberUploadCropper v0.2.1</h1>
 			<p>Advanced Example which demonstrates the uploading a large image, scaling a smaller copy to fit the browser, crop, and resize the original full size image.  This method maintains better image quality.</p>
 			
 			<div id="UploadImages">
