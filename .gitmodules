@@ -1,0 +1,12 @@
+[submodule "submodules/jquery"]
+	path = submodules/jquery
+	url = git://github.com/jquery/jquery.git
+[submodule "submodules/jquery-impromptu"]
+	path = submodules/jquery-impromptu
+	url = git://github.com/trentrichardson/jQuery-Impromptu.git
+[submodule "submodules/file-uploader"]
+	path = submodules/file-uploader
+	url = git://github.com/valums/file-uploader.git
+[submodule "submodules/jcrop"]
+	path = submodules/jcrop
+	url = git://github.com/tapmodo/Jcrop.git
