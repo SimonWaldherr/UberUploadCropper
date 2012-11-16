@@ -45,8 +45,8 @@ foreach($_POST['imgcrop'] as $k => $v) {
 	$gd->crop($filePath, $newCoords['x'], $newCoords['y'], $newCoords['w'], $newCoords['h']);
 
 	// 4) resize the cropped image to whatever size we need (lets go with 200 wide)
-	$ar = $gd->getAspectRatio($newCoords['w'], $newCoords['h'], 200, 0);
-	$gd->resize($filePath, $ar['w'], $ar['h']);
+	//$ar = $gd->getAspectRatio($newCoords['w'], $newCoords['h'], 200, 0);
+	//$gd->resize($filePath, $ar['w'], $ar['h']);
 	
 }
 

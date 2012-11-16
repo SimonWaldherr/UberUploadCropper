@@ -31,11 +31,11 @@
 					//now the cropper options..
 					//---------------------------------------------------
 					'aspectRatio': 1, 
-					'allowSelect': false,			//can reselect
+					'allowSelect': true,			//can reselect
 					'allowResize' : true,			//can resize selection
 					'setSelect': [ 0, 0, 200, 200 ],	//these are the dimensions of the crop box x1,y1,x2,y2
 					'minSize': [ 200, 200 ],			//if you want to be able to resize, use these
-					'maxSize': [ 500, 500 ],
+					'maxSize': [ 3500, 3500 ],
 					//---------------------------------------------------
 					//now the uber options..
 					//---------------------------------------------------
